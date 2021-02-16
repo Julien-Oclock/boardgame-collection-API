@@ -1,0 +1,4 @@
+%syntax-version=1.0.0
+%project=boardgame
+
+createDb 2021-02-16T15:10:44Z Julien Oclock <julien.lxpro@gmail.com> # creation de la bdd
